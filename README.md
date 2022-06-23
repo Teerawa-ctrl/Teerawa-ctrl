@@ -17,7 +17,7 @@
     <h2 align="center">😄 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/teerwat-phromchai-36055422a/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://www.facebook.com/profile.php?id=100007911756171" target="blank"><img align="center"
