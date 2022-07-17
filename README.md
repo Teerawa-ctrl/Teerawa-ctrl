@@ -92,39 +92,7 @@
 ```
 </details>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/Teerawa-ctrl">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teerawa-ctrl&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Teerawa-ctrl :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Teerawa-ctrl/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Teerawa-ctrl&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Teerawa-ctrl&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
 
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Teerawa-ctrl's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=https://github.com/Teerawa-ctrl&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
-
-------
-Credit: [1999azzar](https://github.com/1999azzar)
-`
-<!--
-**Teerawa-ctrl/Teerawa-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
