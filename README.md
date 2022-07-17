@@ -99,7 +99,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Teerawa-ctrl">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teerawa-ctrl&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teerawa-ctrl&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Teerawa-ctrl :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
@@ -115,7 +115,7 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=https://github.com/Teerawa-ctrl&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Teerawa-ctrl's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=https://github.com/Teerawa-ctrl&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 ------
